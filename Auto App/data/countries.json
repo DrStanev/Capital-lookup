@@ -1,0 +1,324 @@
+[
+	{
+		"abbr": "AL",
+		"name": "Albania",
+		"capital": "Tirana",
+		"lat": "41°18'N",
+		"long": "19°49'E"
+	},
+	{
+		"abbr": "AD",
+		"name": "Andorra",
+		"capital": "Andorra la Vella",
+		"lat": "42°31'N",
+		"long": "01°32'E"
+	},
+	{
+		"abbr": "AM",
+		"name": "Armenia",
+		"capital": "Yerevan",
+		"lat": "40°10'N",
+		"long": "44°31'E"
+	},
+	{
+		"abbr": "AT",
+		"name": "Austria",
+		"capital": "Vienna",
+		"lat": "48°12'N",
+		"long": "16°22'E"
+	},
+	{
+		"abbr": "BY",
+		"name": "Belarus",
+		"capital": "Minsk",
+		"lat": "53°52'N",
+		"long": "27°30'E"
+	},
+	{
+		"abbr": "BE",
+		"name": "Belgium",
+		"capital": "Brussels",
+		"lat": "50°51'N",
+		"long": "04°21'E"
+	},
+	{
+		"abbr": "BA",
+		"name": "Bosnia and Herzegovina",
+		"capital": "Sarajevo",
+		"lat": "04°21'E",
+		"long": "18°26'E"
+	},
+	{
+		"abbr": "BG",
+		"name": "Bulgaria",
+		"capital": "Sofia",
+		"lat": "42°45'N",
+		"long": "23°20'E"
+	},
+	{
+		"abbr": "CH",
+		"name": "Switzerland",
+		"capital": "Bern",
+		"lat": "46°57'N",
+		"long": "07°28'E"
+	},
+	{
+		"abbr": "CY",
+		"name": "Cyprus",
+		"capital": "Nicosia",
+		"lat": "35°10'N",
+		"long": "33°25'E"
+	},
+	{
+		"abbr": "CZ",
+		"name": "Czech Republic",
+		"capital": "Prague",
+		"lat": "50°05'N",
+		"long": "14°22'E"
+	},
+	{
+		"abbr": "DE",
+		"name": "Germany",
+		"capital": "Berlin",
+		"lat": "52°30'N",
+		"long": "13°25'E"
+	},
+	{
+		"abbr": "DK",
+		"name": "Denmark",
+		"capital": "Copenhagen",
+		"lat": "55°41'N",
+		"long": "12°34'E"
+	},
+	{
+		"abbr": "EE",
+		"name": "Estonia",
+		"capital": "Tallinn",
+		"lat": "59°22'N",
+		"long": "24°48'E"
+	},
+	{
+		"abbr": "ES",
+		"name": "Spain",
+		"capital": "Madrid",
+		"lat": "40°25'N",
+		"long": "03°45'W"
+	},
+	{
+		"abbr": "FO",
+		"name": "Faeroe Islands",
+		"capital": "Torshavn",
+		"lat": "62°05'N",
+		"long": "06°56'W"
+	},
+	{
+		"abbr": "FI",
+		"name": "Finland",
+		"capital": "Helsinki",
+		"lat": "60°15'N",
+		"long": "25°03'E"
+	},
+	{
+		"abbr": "FR",
+		"name": "France",
+		"capital": "Paris",
+		"lat": "48°50'N",
+		"long": "02°20'E"
+	},
+	{
+		"abbr": "GB",
+		"name": "United Kingdom",
+		"capital": "London",
+		"lat": "51°36'N",
+		"long": "00°05'W"
+	},
+	{
+		"abbr": "GE",
+		"name": "Georgia",
+		"capital": "T'bilisi",
+		"lat": "41°43'N",
+		"long": "44°50'E"
+	},
+	{
+		"abbr": "GI",
+		"name": "Gibraltar",
+		"capital": "Gibraltar",
+		"lat": "36°41'N",
+		"long": "05°09'W"
+	},
+	{
+		"abbr": "GR",
+		"name": "Greece",
+		"capital": "Athens",
+		"lat": "37°58'N",
+		"long": "23°46'E"
+	},
+	{
+		"abbr": "HU",
+		"name": "Hungary",
+		"capital": "Budapest",
+		"lat": "47°29'N",
+		"long": "19°05'E"
+	},
+	{
+		"abbr": "HR",
+		"name": "Croatia",
+		"capital": "Zagreb",
+		"lat": "45°50'N",
+		"long": "15°58'E"
+	},
+	{
+		"abbr": "IE",
+		"name": "Ireland",
+		"capital": "Dublin",
+		"lat": "53°21'N",
+		"long": "06°15'W"
+	},
+	{
+		"abbr": "IS",
+		"name": "Iceland",
+		"capital": "Reykjavik",
+		"lat": "64°10'N",
+		"long": "21°57'W"
+	},
+	{
+		"abbr": "IT",
+		"name": "Italy",
+		"capital": "Rome",
+		"lat": "41°54'N",
+		"long": "12°29'E"
+	},
+	{
+		"abbr": "LT",
+		"name": "Lithuania",
+		"capital": "Vilnius",
+		"lat": "54°38'N",
+		"long": "25°19'E"
+	},
+	{
+		"abbr": "LU",
+		"name": "Luxembourg",
+		"capital": "Luxembourg",
+		"lat": "49°37'N",
+		"long": "06°09'E"
+	},
+	{
+		"abbr": "LV",
+		"name": "Latvia",
+		"capital": "Riga",
+		"lat": "56°53'N",
+		"long": "24°08'E"
+	},
+	{
+		"abbr": "MC",
+		"name": "Monaco",
+		"capital": "Monaco",
+		"lat": "43°73'N",
+		"long": "07°42'E"
+	},
+	{
+		"abbr": "MK",
+		"name": "Macedonia",
+		"capital": "Skopje",
+		"lat": "42°01'N",
+		"long": "21°26'E"
+	},
+	{
+		"abbr": "MT",
+		"name": "Malta",
+		"capital": "Valletta",
+		"lat": "35°54'N",
+		"long": "14°31'E"
+	},
+	{
+		"abbr": "NO",
+		"name": "Norway",
+		"capital": "Oslo",
+		"lat": "59°55'N",
+		"long": "10°45'E"
+	},
+	{
+		"abbr": "NL",
+		"name": "Netherlands",
+		"capital": "Amsterdam",
+		"lat": "52°23'N",
+		"long": "04°54'E"
+	},
+	{
+		"abbr": "PO",
+		"name": "Poland",
+		"capital": "Warsaw",
+		"lat": "52°13'N",
+		"long": "21°00'E"
+	},
+	{
+		"abbr": "PT",
+		"name": "Portugal",
+		"capital": "Lisbon",
+		"lat": "38°42'N",
+		"long": "09°10'W"
+	},
+	{
+		"abbr": "RO",
+		"name": "Romania",
+		"capital": "Bucharest",
+		"lat": "44°27'N",
+		"long": "26°10'E"
+	},
+	{
+		"abbr": "RU",
+		"name": "Russia",
+		"capital": "Moscow",
+		"lat": "55°45'N",
+		"long": "37°35'E"
+	},
+	{
+		"abbr": "SE",
+		"name": "Sweden",
+		"capital": "Stockholm",
+		"lat": "59°20'N",
+		"long": "18°03'E"
+	},
+	{
+		"abbr": "SL",
+		"name": "Slovenia",
+		"capital": "Ljubljana",
+		"lat": "46°04'N",
+		"long": "14°33'E"
+	},
+	{
+		"abbr": "SK",
+		"name": "Slovakia",
+		"capital": "Bratislava",
+		"lat": "48°10'N",
+		"long": "17°07'E"
+	},
+	{
+		"abbr": "SM",
+		"name": "San Marino",
+		"capital": "San Marino",
+		"lat": "43°55'N",
+		"long": "12°30'E"
+	},
+	{
+		"abbr": "TR",
+		"name": "Turkey",
+		"capital": "Ankara",
+		"lat": "39°57'N",
+		"long": "32°54'E"
+	},
+	{
+		"abbr": "UA",
+		"name": "Ukraine",
+		"capital": "Kiev",
+		"lat": "50°30'N",
+		"long": "30°28'E"
+	},
+	{
+		"abbr": "VA",
+		"name": "Vatican City State",
+		"capital": "Vatican City",
+		"lat": "41°09'N",
+		"long": "12°45'E"
+	}
+]
